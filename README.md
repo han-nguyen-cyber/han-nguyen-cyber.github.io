@@ -3,6 +3,6 @@
 Wow, this is Han's website.
 
 ## Check out my Resume:
-<img src="https://github.com/han-nguyen-cyber/han-nguyen-cyber.github.io/blob/main/Han%20Nguyen%20-%20Resume.jpg?raw=true" alt="Resume" width="500" height="300">
+<img src="https://github.com/han-nguyen-cyber/han-nguyen-cyber.github.io/blob/main/Han%20Nguyen%20-%20Resume.jpg?raw=true" alt="Resume">
 
 
